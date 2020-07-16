@@ -1,0 +1,9 @@
+@media only screen and (max-width: 850px) {
+  .container .banner .banner-content {
+    width: 45%;
+  }
+
+  .container .banner .banner-image {
+    width: 55%;
+  }
+}

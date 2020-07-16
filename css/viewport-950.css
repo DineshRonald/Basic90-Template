@@ -1,0 +1,26 @@
+@media only screen and (max-width: 950px) {
+  .container .banner .banner-content {
+    width: 40%;
+  }
+
+  .container .banner .banner-image {
+    width: 60%;
+  }
+
+  .summary .summary-post {
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .summary .summary-links {
+    width: 45%;
+    float: left;
+  }
+
+  .summary .summary-about {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+}
