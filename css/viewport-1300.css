@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1300px) {
+  .container {
+    width: 90%;
+  }
+
+  .header .header-container {
+    width: 90%;
+  }
+
+  .footer .footer-content {
+    width: 90%;
+  }
+}

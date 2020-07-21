@@ -1,0 +1,48 @@
+@media only screen and (max-width: 700px) {
+  .container .banner .banner-content {
+    width: 100%;
+    min-height: auto;
+    padding: 30px;
+  }
+
+  .container .banner .banner-image {
+    width: 100%;
+  }
+
+  .summary {
+    width: 95%;
+    margin: 0 auto;
+  }
+
+  .summary .summary-post {
+    margin-right: 0px;
+    width: 100%;
+    float: none;
+    margin-bottom: 50px;
+  }
+
+  .summary .summary-links {
+    width: 100%;
+    float: none;
+  }
+
+  .summary .summary-about .summary-about-content .summary-about-image {
+    float: left;
+    border: 5px solid #e1e1e1;
+    width: 140px;
+    height: 140px;
+    background-color: #333333;
+    color: white;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-left: 0;
+  }
+
+  .summary .summary-about .summary-about-content .summary-about-text {
+    width: 90%;
+    float: left;
+    margin-left: 0;
+    margin-top: 25px;
+    
+  }
+}
